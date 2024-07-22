@@ -1,0 +1,63 @@
+Problems to practice (duplicates removed from each list for clarity, Two Sum was on both lists for example):
+
+GeminiAI https://gemini.google.com/app/5e6e02648a7efffe
+Data Structures
+    Heaps: Top K Frequent Elements: Learn about heap properties and usage.
+Algorithms
+    Recursion: Fibonacci Number: A simple problem to grasp the recursive approach.
+    Sorting: Merge Sort: Understand the divide-and-conquer paradigm and merge operation.
+    Searching: Binary Search: Learn efficient searching in sorted arrays.
+
+ClaudeAI
+Arrays: Two Sum (Problem 1)
+Linked Lists: Reverse Linked List (Problem 206)
+Stacks: Valid Parentheses (Problem 20)
+Queues: Implement Queue using Stacks (Problem 232)
+Hash Tables: Contains Duplicate (Problem 217), Two Sum (Problem 1)
+Trees: Maximum Depth of Binary Tree (Problem 104),
+Heaps: Kth Largest Element in an Array (Problem 215)
+Graphs: Number of Islands (Problem 200)
+Binary Search: Binary Search (Problem 704)
+Depth-First Search: Path Sum (Problem 112)
+Breadth-First Search: Binary Tree Level Order Traversal (Problem 102)
+Sorting: Sort Colors (Problem 75)
+Dynamic Programming: Climbing Stairs (Problem 70)
+Greedy Algorithms: Best Time to Buy and Sell Stock (Problem 121)
+Backtracking: Letter Combinations of a Phone Number (Problem 17)
+Two Pointers: Remove Duplicates from Sorted Array (Problem 26)
+Sliding Window: Longest Substring Without Repeating Characters (Problem 3)
+Fast and Slow Pointers: Linked List Cycle (Problem 141)
+Merge Intervals: Merge Intervals (Problem 56)
+Topological Sort: Course Schedule (Problem 207)
+
+https://claude.ai/chat/be158ecb-2935-4b11-abc0-0c83c82deddb
+Here are some other classic problems that provide good practice:
+
+Recursion:
+    Euclid's algorithm
+    Fibonacci sequence
+    Tower of Hanoi
+    Factorial calculation
+Dynamic Programming:
+    Longest Common Subsequence
+    Knapsack Problem
+    Coin Change Problem
+Graph algorithms:
+    Dijkstra's Shortest Path
+    Kruskal's Minimum Spanning Tree
+    Topological Sort
+Tree traversal:
+    Inorder, Preorder, and Postorder traversals
+    Level Order Traversal
+Searching and Sorting:
+    Implementing Quicksort and Mergesort
+    Finding kth largest/smallest element
+Two Pointers:
+    Reversing a string
+    Container With Most Water
+Sliding Window:
+    Maximum Sum Subarray of Size K
+    Longest Substring with K Distinct Characters
+Fast and Slow Pointers:
+    Detecting a cycle in a linked list
+    Finding the middle of a linked list
